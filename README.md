@@ -20,8 +20,9 @@ Hi, I'm [Vrushabh Virkar] 👋, a passionate software developer with expertise i
 
 
 ### 🔭 Current Projects
-- **[Personal Portfolio](https://github.com/your-username/project-repo):
-- **[VaultScribe](https://github.com/your-username/project-repo):** Brief description of another project.
+- **[Personal Portfolio](https://github.com/your-username/project-repo):A responsive portfolio website built using HTML, CSS, and JavaScript. It showcases personal projects, skills, and experience, featuring a clean and modern design with smooth animations and interactive elements.
+ https://vrushabhvirkar.github.io/VrushabhVirkar-Portfolio/
+- **[VaultScribe](https://github.com/your-username/project-repo):VaultScribe is a robust password and notes management application developed in Java using the Swing framework for userfriendly interface. It uses MySQL database for secure and efficient data storage. With VaultScribe, users can safely store and organize their passwords and confidential notes in one place, ensuring data encryption and easy access.
 
 ### 🌱 Learning & Development
 Currently learning ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white).
