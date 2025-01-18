@@ -1,7 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Header](https://github.com/Vrushabhvirkar/Vrushabhvirkar/raw/main/profile.png)
-
 Hi, I'm [Vrushabh Virkar] 👋, a passionate software developer with expertise in [Web Dev]. I love building impactful projects that solve real-world problems. 
 
 ### 🛠 Technologies & Tools
